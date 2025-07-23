@@ -1,4 +1,4 @@
-package com.myfirstapp
+package com.cemayen.rncountthings
 
 import android.app.Application
 import com.facebook.react.PackageList
